@@ -1,2 +1,2 @@
-# STEP-Training-
+# STEP-Training-Practice
 STEP Training Practice
